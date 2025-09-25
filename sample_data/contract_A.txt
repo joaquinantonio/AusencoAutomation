@@ -1,0 +1,11 @@
+SERVICE AGREEMENT
+Between: Alpha Manufacturing Sdn Bhd and Beta Logistics Berhad
+Term: 12 months starting 1 September 2025.
+Renewal: Automatic for 12 months unless either party gives 60 days' notice.
+Payment Terms: 30 days from invoice date.
+Obligations:
+- Provider shall deliver weekly shipment consolidation and tracking.
+- Client must provide accurate volume forecasts.
+- Both parties shall meet quarterly to review KPIs.
+Termination: Either party may terminate for breach with 30 days’ cure period.
+Penalty: Late deliveries beyond 48 hours trigger a 2% fee of monthly service charges.

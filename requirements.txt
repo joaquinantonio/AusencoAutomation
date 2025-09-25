@@ -1,0 +1,10 @@
+# Minimal requirement (LIVE mode uses the Grok API)
+requests>=2.31.0
+
+# Optional (install only if/when you need these):
+# pdfplumber>=0.11.0      # Parse PDFs for procurement scenario
+# fastapi>=0.114.0        # Expose HTTP endpoints for Zapier webhooks
+# uvicorn[standard]>=0.30 # Dev server for FastAPI
+# httpx>=0.27.0           # Async HTTP client alternative to requests
+# pydantic>=2.8.0         # JSON validation / typed models (advanced)
+# apscheduler>=3.10.4     # Scheduling periodic jobs (advanced)

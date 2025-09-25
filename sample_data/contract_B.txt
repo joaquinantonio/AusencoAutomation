@@ -1,0 +1,11 @@
+MASTER SUPPLY AGREEMENT
+Parties: Orion Components Pte Ltd and Celestial Tech Sdn Bhd.
+Duration: 24 months effective 15 October 2025.
+Extension: Renew by mutual written consent 45 days before expiry.
+Payment: Net 45 days; late fee applies after 10 days.
+Obligations:
+* Supplier shall maintain ISO 9001 certification.
+* Buyer must issue purchase orders at least 7 days prior to delivery.
+* Both parties must maintain confidentiality of proprietary information.
+Liability: Indemnify each other for direct damages subject to a cap as specified.
+Non-compete: Supplier will not sell custom parts to competitors during the term.

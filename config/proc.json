@@ -1,0 +1,9 @@
+{
+  "contracts": [
+    "sample_data/contract_A.txt",
+    "sample_data/contract_B.txt"
+  ],
+  "outputs": {
+    "register_path": "out/contracts_register.csv"
+  }
+}

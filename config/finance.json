@@ -1,0 +1,8 @@
+{
+  "period": "2025-08",
+  "input_path": "sample_data/gl_aug.csv",
+  "outputs": {
+    "json_path": "out/finance_report_2025-08.json",
+    "csv_append_path": "out/finance_variances_2025-08.csv"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "policy_path": "sample_data/hr_policy.txt",
+  "questions": [
+    "How many days of annual leave am I entitled to?",
+    "What is the claim submission deadline?"
+  ],
+  "outputs": {
+    "log_path": "out/hr_qna_log.csv"
+  }
+}

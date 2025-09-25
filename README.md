@@ -5,7 +5,7 @@ Scenarios covered:
 2) **HR** — Answer HR policy questions from provided policy text with **citations**.  
 3) **Procurement** — Summarize contract text into a structured **contracts register**.
 
-This kit supports two modes:
+This project supports two modes:
 - **DRY RUN (default)** — No internet or API token required. Uses deterministic, heuristic logic to produce realistic outputs. Great for workshops and offline demos.
 - **LIVE** — With a valid **xAI Grok** API token, the same scripts call the Grok API for AI-generated outputs while keeping the **same JSON shapes**.
 

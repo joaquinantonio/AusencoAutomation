@@ -474,5 +474,3 @@ schema = {
 - [ ] **DRY RUN:** set `DRY_RUN=true` and run the three scripts  
 - [ ] **LIVE:** set `DRY_RUN=false` and `XAI_API_KEY=...` then re-run  
 - [ ] Edit `config/*.json` to point at your data and desired output paths
-
-Happy automating!

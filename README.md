@@ -1,4 +1,4 @@
-# Automation Kit (Grok + Python) — **Workshop Edition**
+# Automation Kit (Grok + Python) 
 **Three runnable automation demos, designed for non-IT participants, with or without API keys.**  
 Scenarios covered:
 1) **Finance** — Draft a monthly report from a GL CSV (highlights, variance table, risks).  
